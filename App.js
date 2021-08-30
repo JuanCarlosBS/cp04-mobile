@@ -7,7 +7,7 @@ export default function App() {
   return (
     <View flex={1}>
       <AppStack />
-      <StatusBar style={'auto'} />
+      <StatusBar style='auto' />
     </View>
   );
 }
